@@ -1,0 +1,6 @@
+{
+    "require": {
+        "cdaguerre/php-trello-api": "@dev",
+        "nopjmp/discord-webhooks": "^0.3.1"
+    }
+}

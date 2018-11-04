@@ -1,0 +1,10 @@
+{
+    "trello": {
+        "trello_api_key": "",
+        "trello_token": "",
+        "board_id": ""
+    },
+    "discord": {
+        "webhook_url": ""
+    }
+}
